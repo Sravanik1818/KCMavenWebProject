@@ -81,12 +81,12 @@
         <repository>
           <id>nexus</id>
           <name>KC Tech Releases Nexus Repository</name>
-          <url>http://3.86.236.234:8081/repository/RELEASE-NEXUS/</url>
+          <url>http://44.204.195.130:8081/repository/RELEASE_NEXUS/</url>
         </repository>
         <snapshotRepository>
           <id>nexus</id>
           <name>KC Tech Snapshot Nexus Repository </name>
-           <url>http://3.86.236.234:8081/repository/SNAPSHOT-NEXUS/</url>
+           <url>http://44.204.195.130:8081/repository/SNAPSHOT_NEXUS/</url>
         </snapshotRepository>
    </distributionManagement>
 	
