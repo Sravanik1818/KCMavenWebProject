@@ -12,7 +12,7 @@ spec:
         name: kctech
     spec:
       containers:
-      - image: sravanik1818/secondimage:1.1
+      - image: sravanik1818/kubesintegration:1.0
         name: kctech
         ports:
         - name: kctech
